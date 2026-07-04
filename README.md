@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

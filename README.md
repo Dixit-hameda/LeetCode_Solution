@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Memoization
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0091-decode-ways) |
+| [0171-excel-sheet-column-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0383-ransom-note) |
 ## Binary Search

@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0091-decode-ways) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2293-min-max-game](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/2293-min-max-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

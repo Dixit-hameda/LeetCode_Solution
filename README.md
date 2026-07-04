@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2293-min-max-game](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/2293-min-max-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0383-ransom-note) |
+## Simulation
+|  |
+| ------- |
+| [2293-min-max-game](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/2293-min-max-game) |
 <!---LeetCode Topics End-->

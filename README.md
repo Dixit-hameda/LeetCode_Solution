@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Memoization
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

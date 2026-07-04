@@ -58,7 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0066-plus-one) |
-| [0067-add-binary](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Memoization
@@ -94,7 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0058-length-of-last-word) |
-| [0067-add-binary](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0383-ransom-note) |
@@ -108,7 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
-| [0067-add-binary](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Sliding Window
@@ -129,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -162,7 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
-| [0067-add-binary](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0067-add-binary) |
 | [2293-min-max-game](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/2293-min-max-game) |
 ## Stack
 |  |

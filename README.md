@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |

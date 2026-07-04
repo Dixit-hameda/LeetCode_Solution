@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dixit-hameda/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
